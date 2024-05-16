@@ -1,0 +1,42 @@
+label {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+body {
+    color: lemonchiffon;
+    font-family: 'Times New Roman', Times, serif;
+}
+select {
+    color: lightcoral;
+    font-family: 'Times New Roman', Times, serif;
+}
+option {
+    color: rgb(209, 53, 149);
+    font-family: 'Times New Roman', Times, serif;
+}
+input {
+    color: rgb(209, 53, 149);
+    font-family: 'Times New Roman', Times, serif;
+}
+form {
+    background-color: rgb(238, 190, 190);
+    padding: 70px;
+    font-family: Aptos Display;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 50px;
+    text-align: center;
+  }
+  h1 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+  }
+  button {
+    width: 70%;
+    background-color: whitesmoke;
+    color: orchid;
+  }
